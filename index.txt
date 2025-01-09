@@ -1,3 +1,6 @@
 my name is ayush Patil
 git init
 git push
+git commands
+git linecommand
+git command
