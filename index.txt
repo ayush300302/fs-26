@@ -4,3 +4,4 @@ git push
 git commands
 git linecommand
 git command
+git ignore bdbdd
