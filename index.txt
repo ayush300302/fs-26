@@ -1,2 +1,3 @@
 my name is ayush Patil
-hujuj
+git init
+git push
